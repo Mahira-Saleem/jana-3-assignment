@@ -17,6 +17,7 @@ alert(pizza);
 
 
 // methos 02
+
 var age = 25; 
 alert("I am " + age + " years old");
 

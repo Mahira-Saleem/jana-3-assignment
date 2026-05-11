@@ -4,6 +4,8 @@ console.log("Mahira!");
 var username = "Mahira";
 alert(username);
 
+// method 01
+
 var ans2 = "I am 20 years old";
 alert(ans2);
 
@@ -11,7 +13,17 @@ var edu = "web and application development";
 alert(edu);
 
 var pizza = "PIZZA\nPIZZ\nPIZ\nPI\nP";
-alert(pizza);           
+alert(pizza);     
+
+
+// methos 02
+var age = 25; 
+alert("I am " + age + " years old");
+
+var visitCount = 5; 
+document.write("You have visited this site " + visitCount + " times.<br>");
+
+
 
 document.write("This is my first JavaScript assignment.");
 
